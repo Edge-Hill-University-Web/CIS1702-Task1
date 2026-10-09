@@ -1,0 +1,17 @@
+{
+    "chat.disableAIFeatures": true,
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.tabCompletion": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.indexing": false,
+    "emmet.showExpandedAbbreviation": "never",
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.triggerExpansionOnTab": false
+}
